@@ -1,6 +1,6 @@
 #!/bin/bash
 rm -rf runvhadmin.x
-cd /www/wwwroot/hvpn.xyz/public/assets/admin
+cd /www/wwwroot/maxdata4g.com/public/assets/admin
 rm -rf umi.js
 curl -OL https://raw.githubusercontent.com/Nghi235/viethoaadmin/main/umi.js
 cd ../../../../../..
